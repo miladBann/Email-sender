@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://1.bp.blogspot.com/-tt0F1j3plds/Ujsv_fANibI/AAAAAAAACQ0/RJ0P3DSj3h8/s1600/Backgrounds-modern-wallpapers-hd-modern-wallpaper-16.jpg");
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+.top {
+  position: relative;
+  left: 350px;
+  top: 65px;
+}
+
+.top h1 {
+  color: goldenrod;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 45px;
+}
+
+.middle {
+  position: relative;
+  top: 120px;
+  left: 360px;
+}
+
+.middle #pass {
+  position: relative;
+  top: 50px;
+  right: 327px;
+  height: 30px;
+  width: 320px;
+  border: none;
+  border-radius: 15px;
+  background-color: beige;
+  color: darkgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.middle #email {
+  height: 30px;
+  width: 320px;
+  border: none;
+  border-radius: 15px;
+  background-color: beige;
+  color: darkgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.bottom {
+  position: relative;
+  top: 240px;
+  left: 470px;
+}
+
+.log {
+  background-color: transparent;
+  color: darkgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  height: 43px;
+  width: 95px;
+  border-radius: 15px;
+}
+
+.app-hidden {
+  display: none;
+}
