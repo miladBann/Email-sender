@@ -1,0 +1,115 @@
+h1,
+.f,
+.t,
+.s,
+.pass {
+  color: goldenrod;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+#from {
+  position: relative;
+  bottom: 64px;
+  left: 70px;
+  width: 280px;
+}
+
+#to {
+  position: relative;
+  bottom: 113px;
+  left: 70px;
+  width: 280px;
+}
+
+#subject {
+  position: relative;
+  bottom: 383px;
+  left: 70px;
+  width: 280px;
+}
+
+#box {
+  position: relative;
+  right: 255px;
+  bottom: 100px;
+}
+
+.t {
+  position: relative;
+  bottom: 70px;
+}
+
+.s {
+  position: relative;
+  bottom: 120px;
+}
+
+html {
+  background-image: url("https://1.bp.blogspot.com/-tt0F1j3plds/Ujsv_fANibI/AAAAAAAACQ0/RJ0P3DSj3h8/s1600/Backgrounds-modern-wallpapers-hd-modern-wallpaper-16.jpg");
+}
+
+.send {
+  height: 40px;
+  width: 90px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: transparent;
+  border-radius: 15px;
+  color: goldenrod;
+  font-weight: bolder;
+  font-size: 25px;
+  position: relative;
+  bottom: 150px;
+  left: 800px;
+}
+
+#from,
+#to,
+#subject,
+#password {
+  height: 22px;
+  border-radius: 15px;
+  border: none;
+  width: 320px;
+  background-color: beige;
+  color: darkgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#box {
+  border-radius: 15px;
+  border: none;
+  background-color: beige;
+  color: darkgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.cont1 {
+  position: relative;
+  left: 40px;
+}
+
+.pass {
+  position: relative;
+  left: 420px;
+  bottom: 83px;
+}
+
+#password {
+  position: relative;
+  left: 520px;
+  bottom: 125px;
+}
+
+.f {
+  position: relative;
+  bottom: 20px;
+}
